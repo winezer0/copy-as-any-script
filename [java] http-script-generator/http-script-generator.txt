@@ -1,0 +1,10 @@
+https://github.com/h3xstream/http-script-generator
+
+多种语言支持
+ruby
+perl
+php
+powershhell
+python
+javascript(xml)
+javascript(jq)
