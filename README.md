@@ -3,11 +3,11 @@
 
 Generate HTTP playback scripts in any language based on the BURP request package
 
-使用方式与说明： 公众号文章暂未发送
+使用方式与说明： NOVASEC公众号文章暂未发送，发送后修改
 
-感谢关注NOVASEC微信公众号
+感谢关注【NOVASEC】微信公众号
 
-有任何问题、建议请githb或公众号留言
+有任何问题、建议请github或公众号留言
 
 #相关项目原地址
 
